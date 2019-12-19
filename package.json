@@ -1,0 +1,24 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.10",
+    "webpack": "^4.41.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniDietrich/Webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniDietrich/Webpack/issues"
+  },
+  "homepage": "https://github.com/ViniDietrich/Webpack#readme",
+  "description": ""
+}
